@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Login_[age"
+rootProject.name = "Assignment 4"
 include(":app")
